@@ -1,0 +1,14 @@
+
+assets/*
+
+!assets/textures
+assets/textures/*
+!assets/textures/player
+!assets/textures/overlay
+assets/textures/overlay/*
+!assets/textures/overlay/in_bed.png
+
+
+
+
+
